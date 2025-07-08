@@ -8,6 +8,13 @@
       "when": 1751941105292,
       "tag": "0000_busy_the_leader",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1751990102499,
+      "tag": "0001_premium_chronomancer",
+      "breakpoints": true
     }
   ]
 }
